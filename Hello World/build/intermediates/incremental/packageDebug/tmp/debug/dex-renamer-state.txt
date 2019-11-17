@@ -1,0 +1,4 @@
+#Sun Nov 17 16:04:33 COT 2019
+base.0=C\:\\Users\\javie\\Documents\\Colsubsidio\\Hello World\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
